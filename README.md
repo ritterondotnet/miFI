@@ -3,8 +3,8 @@ miFI Alpha - 1.0
 
 miFI is a tool for bypass web-based hotspot login protection, with automatic MAC spoofing
 
-1) Automatic mode
-2) Automatic mode LOOP #loop scan and spoof until connected!
+1) Automatic mode\n
+2) Automatic mode LOOP #loop scan and spoof until connected!\n
 3) Scan WIFI for MAC address
 4) Scan WIFI for MAC address LOOP
 5) Spoof a MAC address
